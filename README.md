@@ -1,4 +1,4 @@
-# pytest-autocomplete
+# pytest.fish
 
 A Fish shell plugin to provide autocompletion for pytest commands, including test paths and test names.
 
@@ -7,7 +7,14 @@ A Fish shell plugin to provide autocompletion for pytest commands, including tes
 - Works seamlessly with `-k` to filter by test names.
 
 ## Installation
-Install using a Fish package manager like Fisher or manually copy the files to your Fish configuration.
+
+Install using a Fish package manager like [Fisher](https://github.com/jorgebucaran/fisher):
+
+```
+fisher install doroshev-com/pytest.fish
+```
+
+Or manually copy the files to your Fish configuration.
 
 ## Usage
 - Type `pytest` and press Tab to see available test paths.
