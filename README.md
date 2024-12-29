@@ -11,7 +11,7 @@ A Fish shell plugin to provide autocompletion for pytest commands, including tes
 Install using a Fish package manager like [Fisher](https://github.com/jorgebucaran/fisher):
 
 ```
-fisher install doroshev-com/pytest.fish
+fisher install ddoroshev/pytest.fish
 ```
 
 Or manually copy the files to your Fish configuration.
