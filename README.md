@@ -6,11 +6,11 @@ A Fish shell plugin to provide autocompletion for pytest commands, including tes
 
 Type `pytest` and press Tab to see available test paths.
 
-![](https://d39r3gub3niydb.cloudfront.net/dev.doroshev.com/media/img/2024-12-29-pytest-fish-1.svg)
+![](https://d39r3gub3niydb.cloudfront.net/dev.doroshev.com/media/img/2024-12-29-pytest-fish-1.png)
 
 Use `pytest -k` and press Tab to filter by test names.
 
-![](https://d39r3gub3niydb.cloudfront.net/dev.doroshev.com/media/img/2024-12-29-pytest-fish-2.svg)
+![](https://d39r3gub3niydb.cloudfront.net/dev.doroshev.com/media/img/2024-12-29-pytest-fish-2.png)
 
 ## Installation
 
